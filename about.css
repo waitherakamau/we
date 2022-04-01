@@ -1,0 +1,27 @@
+*{
+    background-color: grey;
+}
+
+
+
+
+
+nav li {
+    display: inline;
+    padding: 90px;
+    align-items: flex-end;
+}
+footer p{
+    text-align: end;
+    margin-top: 100px;
+}
+iframe{
+    margin-top: 100px;
+    margin-left: 20%;
+    
+
+}
+nav, li, a{
+    text-decoration: none;
+}
+
